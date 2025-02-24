@@ -457,7 +457,7 @@ def setDefaultSettings():
     global stadiumHeight
     
     playerAcceleration = 0.045
-    kickForce = 3.5
+    kickForce = 100#3.5
     playerDrag = 0.98
     #playerDrag = 1
     ballDrag = 0.995
